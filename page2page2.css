@@ -1,0 +1,95 @@
+  
+    
+body{
+    background-color: rgb(96, 176, 189);
+    }
+    h1 {
+        color:rgb(0, 0, 0);
+        font-family: 'Times New Roman', Times, serif,sans-serif;
+        font-size: 40px;
+        background-color: rgb(81, 165, 165);
+        color: rgb(0, 0, 0);
+        border-radius: 20px;
+        transform: translate(530px,940px);
+        width: 420px;
+        height: 80px;
+        padding: 40px;
+        margin: 30px;
+        background-color:rgb(71, 142, 142);
+    
+                
+                    
+    }
+    p {
+        font-family: 'Times New Roman', Times, serif,sans-serif;
+        font-size: 35px;
+        border: 100px;
+        background-color: rgb(81, 165, 165);
+        color: rgb(0, 0, 0);
+        border-radius: 20px;
+        transform: translate(530px,970px);
+        width: 460px;
+        height: 440px;
+        padding: 20px;
+        margin: 30px;
+        background-color: rgb(107, 186, 186);
+        
+    
+    }
+    h2 {
+        color:rgb(0, 0, 0);
+        font-family: 'Times New Roman', Times, serif,sans-serif;
+        font-size: 65px;
+        transform: translate(500px,800px);
+    }
+    img.image1 {
+        width:500px;
+        height:700px;
+        border-radius: 20px;
+        transform: translate(1100px,220px);
+    
+    }
+    img.image2 {
+        width:500px;
+        height:720px;
+        border-radius: 20px;
+        transform: translate(-480px,240px);
+    }
+    img.image3 {
+        width:500px;
+        height:700px;
+        border-radius: 20px;
+        transform: translate(1100px,-1220px);
+    }
+    img.image4 {
+        width:500px;
+        height:700px;
+        border-radius: 20px;
+        transform: translate(60px,-1220px);
+    }
+    img.image5 {
+        width:500px;
+        height:700px;
+        border-radius: 20px;
+        transform: translate(550px,-420px);
+    }
+    img.image6 {
+        width:500px;
+        height:700px;
+        border-radius: 20px;
+        transform: translate(-480px,-1925px);
+    }
+    img.image7 {
+        width:500px;
+        height:700px;
+        border-radius: 20px;
+        transform: translate(1100px,-1150px);
+    }
+    img.image8 {
+        width:500px;
+        height:700px;
+        border-radius: 20px;
+        transform: translate(-480px,-1130px);
+    }
+
+    
